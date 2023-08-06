@@ -1,0 +1,24 @@
+#apps
+{
+    background-color:blueviolet;
+}
+#games
+{
+    background-color:orangered;
+}
+#chatbot
+{
+    background-color:violet;
+}
+.line
+{
+    height:8px;
+    width:70px;
+    background-color:black;
+    margin:6px;
+}
+img
+{
+    height:500px;
+    width:500px;
+}
